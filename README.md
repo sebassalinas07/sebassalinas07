@@ -1,6 +1,8 @@
 ## Soy Sebastian Salinas Ortiz
 
 Desarrollador de Software, me apasiona crear soluciones tecnológicas que generen impacto y aporten valor a las empresas.
+Me caracterizo por mi compromiso, disciplina y aprendizaje continuo en el mundo del desarrollo.
+
 
 ## Lenguajes
 
