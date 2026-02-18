@@ -1,16 +1,29 @@
-## Hi there 👋
+¡Hola!👋 soy Sebastian Salinas Ortiz
 
-<!--
-**sebassalinas07/sebassalinas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software, me apasiona crear soluciones tecnológicas que generen impacto y aporten valor a las empresas.
 
-Here are some ideas to get you started:
+## Lenguajes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,mysql,html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas & Tecnologías
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,supabase,git,github,vscode" />
+</p>
+
+## Entorno de Desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=materialui" />
+</p>
+
+
+## Proyectos Destacados
+
+🔹 **E-commerce Web**
+Aplicación web desarrollada con React y Node.js con carrito de compras y gestión de productos.
+
+🔹 **Cuadrante H**
+Plataforma empresarial de evaluación para gestión de talentos.
+
+
