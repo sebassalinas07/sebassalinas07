@@ -1,4 +1,4 @@
-¡Hola!👋 soy Sebastian Salinas Ortiz
+Sebastian Salinas Ortiz
 
 Desarrollador de Software, me apasiona crear soluciones tecnológicas que generen impacto y aporten valor a las empresas.
 
@@ -26,7 +26,6 @@ Desarrollador de Software, me apasiona crear soluciones tecnológicas que genere
 </td>
 </tr>
 </table>
-
 
 
 ## Herramientas y Tecnologías
@@ -68,13 +67,6 @@ Desarrollador de Software, me apasiona crear soluciones tecnológicas que genere
 </td>
 </tr>
 </table>
-
-
-## Entorno de Desarrollo
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=materialui" width="60"/><br>Material UI
-</p>
 
 
 ## Proyectos Destacados
