@@ -2,7 +2,7 @@
 
 Desarrollador de Software, me apasiona crear soluciones tecnológicas que generen impacto y aporten valor a las empresas.
 
-Me caracterizo por mi compromiso, disciplina y aprendizaje continuo en el mundo del desarrollo.
+Me caracterizo por mi compromiso, disciplina, trabajo en equipo y aprendizaje continuo en el mundo del desarrollo.
 
 
 ## Lenguajes
@@ -78,6 +78,6 @@ Me caracterizo por mi compromiso, disciplina y aprendizaje continuo en el mundo 
 Aplicación web desarrollada con React y Node.js con carrito de compras y gestión de productos.
 
 🔹 **Cuadrante H**
-Plataforma empresarial de evaluación para gestión de talentos.
+Plataforma empresarial de evaluación de talentos.
 
 
